@@ -37,7 +37,7 @@ export default function Projects() {
                 img={ProjectImg2}
                 title="E-commerce para Restaurantes"
                 text="Automatização de processos de pagamento, garantindo transações seguras e rápidas. Oferecemos preços competitivos e uma interface que torna a compra de alimentos online simples e acessível."
-                action={() => window.location.href = "https://bel-food-78546.web.app/"}
+                action={() => window.location.href = "https://bel-foods-production.up.railway.app/"}
               />
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
